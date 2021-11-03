@@ -8,7 +8,7 @@
 *.suo
 *.user
 *.sln.docstates
-
+*.dbf
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
